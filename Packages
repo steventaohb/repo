@@ -16,22 +16,6 @@ Description: 仅供学习交流，请在 24 小时内自觉删除。
 Author: xiaotiaopi
 Name: ceshi
 
-Package: com.yuyi.qqaudio
-Version: 0.1-14+debug
-Architecture: iphoneos-arm64
-Maintainer: 余忆
-Installed-Size: 372
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/com.yuyi.qqaudio_0.1-14+debug_iphoneos-arm64.deb
-Size: 56660
-MD5sum: 9802e86e4b41ed6f89b7affe5078d56b
-SHA1: 6e0fbf44419a7aeda3d2c52a65a466d2bf01ad08
-SHA256: 190135fe6fdafb3f7198adec61fcc718e5d6bea671070a0694ff6f53614d5b2b
-Section: 余忆的插件
-Description: QQ语音包，提示激活输入QQ：2974245302，使用方法为先用QQ的录音录几秒钟，暂停之后长按即可弹出语音包素材，导入方法跟微信的一样或者用filza到QQ文档目录找到yuyi_audio往里面放解压好的语音包即可
-Author: 余忆
-Name: QQAudio（QQ语音包）
-
 Package: com.yuyi.screenshot
 Version: 0.1
 Architecture: iphoneos-arm64
