@@ -30,37 +30,36 @@ Description: 神秘功能。
 Author: binglan
 Name: 控制中心美化
 
-Package: com.huami.dyyy
-Version: 2.0-2
-Architecture: iphoneos-arm64
-Maintainer: huami
-Installed-Size: 272
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: debs/com.huami.dyyy_2.0-2_iphoneos-arm64.deb
-Size: 37060
-MD5sum: b81b7b33b0d9def6fe84e50abd810911
-SHA1: d567130f3760c234812a621fcf6fc4e3f7936f42
-SHA256: ed197081671d6c29213680c475c6d7d7754fa92d702ab5b62ed04838c5a77be8
-Section: Tweaks
-Priority: optional
-Homepage: https://github.com/huami1314/DYYY
-Description: 仅供学习交流，请在 24 小时内自觉删除。
-Author: xiaotiaopi
-Name: ceshi
-
-Package: com.yuyi.screenshot
+Package: com.diandian.chajianjieshao
 Version: 0.1
 Architecture: iphoneos-arm64
-Maintainer: yuyi
+Maintainer: diandian
 Installed-Size: 208
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/com.yuyi.screenshot_0.1_iphoneos-arm64.deb
-Size: 19136
-MD5sum: 14cad0dc2f55e6116b8561d2dcd32be1
-SHA1: c694828894cc89b2af4971cc8422f4c36101ef69
-SHA256: b9a2259b9b8cc0361830c24a002a97fde5d14d31da0d65379ab1ad75be3e2f4a
-Section: 余忆的插件
-Description: 截图套壳，好像是在QQ聊天记录双指或三指长按设置
-Author: yuyi
+Filename: debs/com.diandian.chajianjieshao_0.1_iphoneos-arm64.deb
+Size: 19184
+MD5sum: 5ab7b0b26ec48d0d5ff771018032db22
+SHA1: 4defa65483cef0afc704cd923c95f399478e7f65
+SHA256: b01f4a232bbfc1643af171c00168e70008afd8043444a151f2b21a89eecef228
+Section: 点点
+Description: 所有的配置文件下载后均在/var/mobile/Documents目录下（无根隐根都是一样的）下载后自己去翻即可。
+Author: diandian
 Name: Screenshot
+
+Package: com.nx.stheno
+Version: 77.1.4.7
+Architecture: iphoneos-arm64e
+Maintainer: Crassna
+Installed-Size: 1928
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 16.1)
+Filename: debs/com.nx.stheno_77.1.4.7_iphoneos-arm64e-1.deb
+Size: 522066
+MD5sum: 51c767ed19a8f6573248c01c514f9fb1
+SHA1: 8b257bdc6bc6875f5cf507d24c6e8f6c53561f54
+SHA256: 74f3df2b35245b6eb04da6b0532411e9b47521fcdcd4bc5634fb061baff8dcb4
+Section: Tweaks
+Description: Medusa!
+Author: Crassna
+Name: Stheno
 
