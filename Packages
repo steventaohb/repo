@@ -46,20 +46,3 @@ Description: 用于部分自用控制中心模块2x1布局以及素材替换，�
 Author: Simon
 Name: 控制中心模块
 
-Package: xyz.cypwn.akara.rootless
-Version: 2.0.2k
-Architecture: iphoneos-arm64e
-Maintainer: CyPwn <xuanhua880@gmail.com>
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate, preferenceloader, com.opa334.ccsupport, com.muirey03.libimagepicker, firmware (>=15.0)
-Filename: debs/xyz.cypwn.akara.rootless_2.0.2k_iphoneos-arm64e.deb
-Size: 672282
-MD5sum: 3815f026ba3a993ffd13e1b61089eedc
-SHA1: 79445935ca4ec363cc0377ee09d2919da7fedc42
-SHA256: ba108edb457ff0e8925bdb1bf78e38cf753f9ff10a986a1ba0f1c5af5f635fa8
-Section: Tweaks
-Description: Minimal design without compromise
-Author: Tr1Fecta & Kennyroo <xuanhua880@gmail.com>
-Icon: https://img.chariz.cloud/icon/akara/icon@3x.png
-Name: Akara
-
