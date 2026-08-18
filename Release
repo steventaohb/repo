@@ -1,25 +1,10 @@
-Date: Tue, 18 Aug 2026 06:50:13 +0000
-MD5Sum:
- 910de40b2e0d969faeb465ab9d98e53a             1611 Packages
- 6eb66495eff36f31f31e0fdaea1dafee              979 Packages.bz2
- c9198f038f5b163d5006c098cf8377d3              908 Packages.xz
- 8f66643a3ef8a773e6b3e005c6391c9a              917 Packages.zst
- c71a1170b45bc2a66df5c86ee025fc3c               38 Release
-SHA1:
- feb1050a02f54c7c65a8557be2b5bf90dc72786f             1611 Packages
- 0ad89407a633c3f7e27a8154ecf9dfe7c1e3a905              979 Packages.bz2
- 2529626c2e2bffbd562f2a7121739b06a0abf025              908 Packages.xz
- 62bd61efe98f4a89aa7febcbbbf622785db2d565              917 Packages.zst
- 097ca2af987758772095572ea4f32765869f5b81               38 Release
-SHA256:
- 9038a4132f8f1e29c29740ac8ded02aae1a85038ca86d3f32bcc6ea85b3c04a3             1611 Packages
- a3e7a79277ced1e617794996ab4a68c6d2349216a26fc6edeb59c95a8e414c1e              979 Packages.bz2
- 1d42c952b2b42e7d54f61d9d4d6ba8e7c114b7b88a5d4000f2946c87d1d3f830              908 Packages.xz
- 29f7f8540298251b855160ced442e2d5d972270b78c25f508d253767c3928a88              917 Packages.zst
- 89f25c647df8f0742a534f6cb766ca291c44ed8a6e5f4346fd67f04016524b05               38 Release
-SHA512:
- 5e57dd4222fb52fb58a157ad3653b80070be9482d950534a8f40830a841698d6dd5a253de0a2db9461e29d90848ff450ca5912ef39cde4e16cff48fe3d3d4460             1611 Packages
- 3faa7d2ab4cb1c28be218564a833cdef94c06328d235516287b16aa23bfd6715cd09e21fad72ff080da6bcbcec362eccdab5b7c48fbc58ad5c6b48c93e876095              979 Packages.bz2
- 22b9bae1f9e5e75f48adf91cee28f8cddbf33a194fea0be9ce6aaf8f533aa0c3dfad86242c42745d5283ef2ba9115da913c475600ca2439c56fd494e1253e96e              908 Packages.xz
- 245317d3115b8c03034c671e1f534263246f66f8e8ae1dc11ce076fbd1b06636673d76c6b0cadb79abce764c5f66f45b1ed830e0c13394bf22577fafd194c523              917 Packages.zst
- 8d5a52d4b8a3e423a434cc34fa21946daef53e9008268d36c7c0ad87e30b50c57f267697f21b42c081c6a1d97f300d9eb765aa387f797535a322136c0b3b7300               38 Release
+Origin:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   steventaohb&
+Label: steventaohb&🏠
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm64e-roothide iphoneos-arm64-roothide iphoneos-arm64 iphoneos-arm64e iphoneos-arm
+Components: main
+Description: 个人越狱插件源（暂未添加插件）
+SileoFeatured: https://Diandianyyy.github.io/diandian520/sileo-
+Priority: -999999
