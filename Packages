@@ -1,20 +1,20 @@
 Package: com.huami.dyyy
 Version: 2.0-2
-Architecture: iphoneos-arm
+Architecture: iphoneos-arm64
 Maintainer: huami
 Installed-Size: 272
 Depends: firmware (>= 5.0), mobilesubstrate
-Filename: debs/com.huami.ceshi_2.0-2_iphoneos-arm64.deb
-Size: 36854
-MD5sum: 047af879ebd74b0fa432b01cd47a88fe
-SHA1: 227e47a720c652b626c3ff4799405689eeccbff2
-SHA256: cc8d90e46c476e816849c62e21031386494d4d219780f77a601227a2617d81cc
+Filename: debs/com.huami.dyyy_2.0-2_iphoneos-arm64.deb
+Size: 37060
+MD5sum: b81b7b33b0d9def6fe84e50abd810911
+SHA1: d567130f3760c234812a621fcf6fc4e3f7936f42
+SHA256: ed197081671d6c29213680c475c6d7d7754fa92d702ab5b62ed04838c5a77be8
 Section: Tweaks
 Priority: optional
 Homepage: https://github.com/huami1314/DYYY
 Description: 仅供学习交流，请在 24 小时内自觉删除。
-Author: huami
-Name: DYYY
+Author: xiaotiaopi
+Name: ceshi
 
 Package: com.yuyi.qqaudio
 Version: 0.1-14+debug
