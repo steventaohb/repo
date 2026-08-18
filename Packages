@@ -1,35 +1,3 @@
-Package: com.binglan.kongzhidiy
-Version: 2.3.3-end
-Architecture: iphoneos-arm64
-Maintainer: binglan
-Installed-Size: 3028
-Depends: mobilesubstrate, firmware (>= 15.0)
-Filename: debs/com.binglan.kongzhidiy_2.3.3-end_iphoneos-arm64.deb
-Size: 674584
-MD5sum: 546334e75c474867ef5356a6585bff10
-SHA1: a0081bf5ad537864ed6010bfd4b1b3c78841fd02
-SHA256: 2965455ebb602bb3567d842c738da10af0d59c9c77ce9e02132bb03724525fb3
-Section: Tweaks
-Description: 神秘功能。
-Author: binglan
-Name: 控制中心美化
-
-Package: com.binglan.kzmh
-Version: 2.2.3-END
-Architecture: iphoneos-arm64
-Maintainer: binglan
-Installed-Size: 2088
-Depends: mobilesubstrate, firmware (>= 15.0)
-Filename: debs/com.binglan.kzmh_2.2.3-END_iphoneos-arm64.deb
-Size: 574496
-MD5sum: 3a52a1308f8f8332c1190eea913a9ddf
-SHA1: ea06e7dfc6790edd53bd0ebdaaab6b422b87ea7d
-SHA256: 520777b8b45dcb47269d4e372c1bb04eca7d266defb8f6d95a8c4703099df18a
-Section: Tweaks
-Description: 神秘功能。
-Author: binglan
-Name: 控制中心美化
-
 Package: com.nx.stheno
 Version: 77.1.4.7
 Architecture: iphoneos-arm64e
@@ -46,4 +14,38 @@ Section: Tweaks
 Description: Medusa!
 Author: Crassna
 Name: Stheno
+
+Package: com.simon.ccglow
+Version: 2.0.3
+Architecture: iphoneos-arm64e
+Maintainer: Simon
+Installed-Size: 536
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: debs/com.simon.ccglow_2.0.3_iphoneos-arm64e.deb
+Size: 92494
+MD5sum: b3d958a4262711e906dd3fbc0463a1ea
+SHA1: 93d79d12199fe45c29625b563eee2d1c6e1aaa7f
+SHA256: 708a3f25524b6eea7cef1faa07c6998cce159d28fad41444a55ea24a7cdb6a79
+Section: Tweaks
+Description: 控制中心发光
+Author: Simon
+Name: 控制中心发光
+
+Package: com.simon.controlcenterlayout
+Version: 2.1
+Architecture: iphoneos-arm64e
+Maintainer: Simon
+Installed-Size: 620
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: debs/com.simon.controlcenterlayout_2.1_iphoneos-arm64e.deb
+Size: 115296
+MD5sum: 28bca6cf53c4ae673503d31f4d6d9668
+SHA1: 76f5c74b798d12ccc681c8feb9aff2a1bb36bf30
+SHA256: dbf75d2299fed3cba01d351ea695e873d421a13a3f8dabae1d40ead3de86d0b7
+Section: Tweaks
+Description: 用于部分自用控制中心模块2x1布局以及素材替换，半越狱不再卑微。
+Author: Simon
+Name: 控制中心模块
 
