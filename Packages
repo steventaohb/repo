@@ -30,20 +30,20 @@ Description: 神秘功能。
 Author: binglan
 Name: 控制中心美化
 
-Package: com.chajian.miaoshu
+Package: com.nx.stheno
 Version: 77.1.4.7
 Architecture: iphoneos-arm64e
 Maintainer: Crassna
 Installed-Size: 1928
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: dev.theos.orion (>= 1.0.0), firmware (>= 16.1)
-Filename: debs/com.chajian.miaoshu_77.1.4.7_iphoneos-arm64e.deb
-Size: 364984
-MD5sum: dc2c2347de2f08c8fd12d0b27ebbc17b
-SHA1: 03c358eb71312cb9457ed14b3e44a8d081542251
-SHA256: 04500b5b4a63f904c2f24bf6103dcc03697e090d8184d4314336bf65a0cc6b06
+Filename: debs/com.nx.stheno_77.1.4.7_iphoneos-arm64e-1.deb
+Size: 522066
+MD5sum: 51c767ed19a8f6573248c01c514f9fb1
+SHA1: 8b257bdc6bc6875f5cf507d24c6e8f6c53561f54
+SHA256: 74f3df2b35245b6eb04da6b0532411e9b47521fcdcd4bc5634fb061baff8dcb4
 Section: Tweaks
-Description: 主页图跳转测试
+Description: Medusa!
 Author: Crassna
-Name: chajianmiaoshu
+Name: Stheno
 
