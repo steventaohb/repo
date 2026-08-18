@@ -30,22 +30,6 @@ Description: 神秘功能。
 Author: binglan
 Name: 控制中心美化
 
-Package: com.diandian.chajianjieshao
-Version: 0.1
-Architecture: iphoneos-arm64
-Maintainer: diandian
-Installed-Size: 208
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/com.diandian.chajianjieshao_0.1_iphoneos-arm64.deb
-Size: 19184
-MD5sum: 5ab7b0b26ec48d0d5ff771018032db22
-SHA1: 4defa65483cef0afc704cd923c95f399478e7f65
-SHA256: b01f4a232bbfc1643af171c00168e70008afd8043444a151f2b21a89eecef228
-Section: 点点
-Description: 所有的配置文件下载后均在/var/mobile/Documents目录下（无根隐根都是一样的）下载后自己去翻即可。
-Author: diandian
-Name: Screenshot
-
 Package: com.nx.stheno
 Version: 77.1.4.7
 Architecture: iphoneos-arm64e
