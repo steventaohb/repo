@@ -4,7 +4,7 @@ Architecture: iphoneos-arm
 Maintainer: huami
 Installed-Size: 272
 Depends: firmware (>= 5.0), mobilesubstrate
-Filename: debs/com.huami.dyyy_2.0-2_iphoneos-arm.deb
+Filename: debs/com.huami.ceshi_2.0-2_iphoneos-arm64.deb
 Size: 36854
 MD5sum: 047af879ebd74b0fa432b01cd47a88fe
 SHA1: 227e47a720c652b626c3ff4799405689eeccbff2
