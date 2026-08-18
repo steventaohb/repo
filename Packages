@@ -15,23 +15,6 @@ Description: Medusa!
 Author: Crassna
 Name: Stheno
 
-Package: com.simon.ccglow
-Version: 2.0.3
-Architecture: iphoneos-arm64e
-Maintainer: Simon
-Installed-Size: 536
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate
-Filename: debs/com.simon.ccglow_2.0.3_iphoneos-arm64e.deb
-Size: 92494
-MD5sum: b3d958a4262711e906dd3fbc0463a1ea
-SHA1: 93d79d12199fe45c29625b563eee2d1c6e1aaa7f
-SHA256: 708a3f25524b6eea7cef1faa07c6998cce159d28fad41444a55ea24a7cdb6a79
-Section: Tweaks
-Description: 控制中心发光
-Author: Simon
-Name: 控制中心发光
-
 Package: com.simon.controlcenterlayout
 Version: 2.1
 Architecture: iphoneos-arm64e
