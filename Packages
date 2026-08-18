@@ -16,36 +16,35 @@ Description: 仅供学习交流，请在 24 小时内自觉删除。
 Author: huami
 Name: DYYY
 
-Package: com.susu.collection
-Version: 1.0
+Package: com.yuyi.qqaudio
+Version: 0.1-14+debug
 Architecture: iphoneos-arm64
-Maintainer: SuSu
-Installed-Size: 520
-Depends: firmware (>= 14.0), mobilesubstrate
-Filename: debs/com.susu.collection_1.0_iphoneos-arm64.deb
-Size: 56464
-MD5sum: eb725e5e4ff8724169efb9b990c98b40
-SHA1: cdd45c5180847e9b2c1efff24369dd8d465df3fe
-SHA256: 02fa72d251e5482adb00380719e415071f1119d42efac62dd8cbe4e90e35ab52
-Section: 苏苏的插件
-Description: 苏苏的日月开关，备份使用
-Author: SuSu
-Name: SuCollection
-
-Package: com.susu.suspendedpets
-Version: 1.0
-Architecture: iphoneos-arm64e
-Maintainer: SuSu
-Installed-Size: 37032
-Pre-Depends: rootless-compat(>= 0.9)
+Maintainer: 余忆
+Installed-Size: 372
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/com.susu.suspendedpets_1.0_iphoneos-arm64e.deb
-Size: 56576088
-MD5sum: 87351380c0e362bef12ae30f15483061
-SHA1: b2393a19d3ea52143bc49801dfbcf9172eaa30ff
-SHA256: f92e67afb824578eea1767074002b6f9ebc4d93492de117f45f06c14893d9f9e
-Section: 苏苏的插件
-Description: 苏苏的桌宠，授权使用!摇一摇唤出面板（switch界面）
-Author: SuSu
-Name: SuspendedPets
+Filename: debs/com.yuyi.qqaudio_0.1-14+debug_iphoneos-arm64.deb
+Size: 56660
+MD5sum: 9802e86e4b41ed6f89b7affe5078d56b
+SHA1: 6e0fbf44419a7aeda3d2c52a65a466d2bf01ad08
+SHA256: 190135fe6fdafb3f7198adec61fcc718e5d6bea671070a0694ff6f53614d5b2b
+Section: 余忆的插件
+Description: QQ语音包，提示激活输入QQ：2974245302，使用方法为先用QQ的录音录几秒钟，暂停之后长按即可弹出语音包素材，导入方法跟微信的一样或者用filza到QQ文档目录找到yuyi_audio往里面放解压好的语音包即可
+Author: 余忆
+Name: QQAudio（QQ语音包）
+
+Package: com.yuyi.screenshot
+Version: 0.1
+Architecture: iphoneos-arm64
+Maintainer: yuyi
+Installed-Size: 208
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.yuyi.screenshot_0.1_iphoneos-arm64.deb
+Size: 19136
+MD5sum: 14cad0dc2f55e6116b8561d2dcd32be1
+SHA1: c694828894cc89b2af4971cc8422f4c36101ef69
+SHA256: b9a2259b9b8cc0361830c24a002a97fde5d14d31da0d65379ab1ad75be3e2f4a
+Section: 余忆的插件
+Description: 截图套壳，好像是在QQ聊天记录双指或三指长按设置
+Author: yuyi
+Name: Screenshot
 
