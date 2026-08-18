@@ -1,3 +1,17 @@
+Package: HBB9.1.1
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: User
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, roothide
+Filename: debs/hbb9.1.1_1.0_iphoneos-arm64e-1.deb
+Size: 18095060
+MD5sum: 8b7e2ccfb2931c901379dabd844053aa
+SHA1: f55a6a6a81909ca0c259c6b192a282ce26b6ff14
+SHA256: c7299f0fcc0b7b0d0f28b70e9bab39930dc9b6e9536ab4441a72ecbc4190e1ff
+Section: Tweaks
+Description: HBB9.1.1
+
 Package: com.nx.stheno
 Version: 77.1.4.7
 Architecture: iphoneos-arm64e
